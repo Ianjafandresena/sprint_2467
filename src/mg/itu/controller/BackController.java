@@ -8,7 +8,7 @@ public class BackController {
 
     @Get(value = "/")
     public String welcome(){
-        return "Welcome to Tomcat 10.";
+        return "Wecome to Tomcat 10.";
     }
 
     
